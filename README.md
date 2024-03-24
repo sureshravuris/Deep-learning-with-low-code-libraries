@@ -10,7 +10,7 @@ This repository is a comprehensive collection of various machine learning tasks 
 - **FastAI**: Contains Jupyter Notebooks for vision object detection, segmentation, tabular tasks, and recommendation systems using FastAI.
 - **Huggingface_Transformers API**: Includes implementations for text classification, named entity recognition, question answering, text summarization, translation, zero-shot classification, computer vision tasks, audio processing, and table QA using Hugging Face Transformers.
 - **Keras_NLP**: Showcases the use of Keras-NLP for NLP tasks including inference with a pretrained classifier, fine-tuning a pretrained backbone, and custom model fine-tuning.
-- **Keras_CV**: Demonstrates object detection using the YOLO model, inference, fine-tuning, and training classifiers from scratch with Keras-CV.
+- **Keras_CV**: Demonstrates object detection using the YOLO model, inference, fine-tuning, and training classifiers from scratch with Keras-CV
 
 
 ## Resources Used
